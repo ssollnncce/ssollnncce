@@ -4,7 +4,7 @@
 I'm a **Frontend Developer** actively looking for job opportunity. My main stack is **Vue.js/React Laravel**, and I enjoy building full stack applications.
 
 ### My tech stack 
-- **Frontend:** HTML, CSS, JavaScript, Vue.js, Vite, Bootstrap  
+- **Frontend:** HTML, CSS, JavaScript, Vue.js, Vite, React, Redux
 - **Backend:** PHP, Laravel, MySQL, REST API  
 - **DevOps:** Docker, Nginx, Git/GitHub  
 - **Tools:** Figma, VS Code, PHPStorm, WebStorm
