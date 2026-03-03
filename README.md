@@ -1,7 +1,7 @@
 ## Hi, I'm Bulat👋
 
 ----------
-I'm a **Frontend Developer** actively looking for my first job opportunity. My main stack is **Vue.js/React Laravel**, and I enjoy building full stack applications.
+I'm a **Frontend Developer** actively looking for job opportunity. My main stack is **Vue.js/React Laravel**, and I enjoy building full stack applications.
 Recently
 
 ### My tech stack 
